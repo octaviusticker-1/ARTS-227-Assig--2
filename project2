@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="eng"
+<meta charset="UTF-g"
+<meta name="viewport"content="width=device-width, intitial-scale=1.o"
+<title>ARTS 227 ASSIG #2; Octavuis Ticker</title>
+<!--
+name; Octavius Ticker
+Date march 25,2026
+project objective; create a professional personal profile page using html structure semantic element, and inling styling.
+-->
+<body>
+
+    <!--header session-->
+    <header>
+        <h1 style="color: blue rgb(red, green, blue) ;">Octavius Ticker</h1>
+    </header>
+    <!-- main container -->
+     <div style="background-color: beige#f4f4f4; padding: 20px; margin: 20px;">
+        <!-- bio section -->
+         
+I am happy and joyful to be an indinidual about technology and web developing.
+My <span style="text-decoration: underline; text-decoration-color: hs1(200, 70% 50%) front-weight bold;"">
+  primary goal
+  </span> is to become a skilled full-stuck developer and contribute to innovative Digital solution. 
+</p>
+<!-- skill section--> 
+ <h2>skill</h2>
+ <ul>
+    <li>HTML5 & CSS3</li>
+    <li>JavaScript Basics</li>
+    <li>problem Solving</li>
+    <li>Version Control (Git& GitHub)</li>
+ </ul>
+ <!-- Experience Section -->
+  <h2>Experience</h2>
+  <ol>
+    <li>Completed introduction to web development course (2025)</li>
+    <li>build personal protfolio website (2029)</li>
+  </ol>
+  </div>
+  </body>
+  </html>
